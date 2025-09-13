@@ -13,8 +13,7 @@ This project is a Streamlit-based web application for binary classification usin
 - **Data Handling:** Loads and encodes the mushroom dataset (`mushrooms.csv`) for classification.
 - **Raw Data View:** Option to display the raw mushroom dataset in the app.
 
-## Usage
+## Access
 
-1. Launch the app using Streamlit:
-   ```bash
-   streamlit run app.py
+You can access the live web app here:  
+[https://machine-learning-web-app-mushrooms-idd56fykaeyes5hxec6jyg.streamlit.app/](https://machine-learning-web-app-mushrooms-idd56fykaeyes5hxec6jyg.streamlit.app/)
